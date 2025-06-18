@@ -7,7 +7,7 @@ try
 {
 InputStreamReader isr = new InputStreamReader (System.in);
 BufferedReader br= new BufferedReader (isr);
-System.out.println("Deepi SUPERMArket");
+System.out.println("MADHU SUPERMArket");
 System.out.println("no 4, mainroad, villpuram");
 System.out.println("-------------------");
 System.out.println("bill");
